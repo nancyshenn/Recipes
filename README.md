@@ -11,6 +11,12 @@ This project builds a **binary classification model** to predict whether a user 
 
 By analyzing user behavior and recipe characteristics, we aim to model **user engagement patterns** and develop an accurate predictor of user-recipe interactions. This project combines **exploratory data analysis, feature engineering, and similarity-based modeling techniques** to improve prediction performance.
 
+## 🤝 Contributors
+
+- **Vaibhav Bommisetty**
+- **Nancy Shen**
+- **Ricky Li**
+- **Hieu Pham**
 ---
 
 ## 📂 Dataset Description
