@@ -161,6 +161,4 @@ While effective, the model relies heavily on **popularity-based heuristics**, su
 - Model **user preferences explicitly** (ingredients, cuisines)  
 - Explore **deep learning-based recommender systems**  
 ---
-
-📅 **Submission Date:** December 3, 2024  
 📄 **Full Report:** [Assignment_2_Write_Up.pdf](https://docs.google.com/document/d/11d70F0-U2R2Duj4i3AYVjNjIrCMGBjr4YEiYqhzSFl4/edit?usp=sharing)
