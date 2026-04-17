@@ -20,7 +20,7 @@ By analyzing user behavior and recipe characteristics, we aim to model **user en
 ---
 
 ## 📂 Dataset Description
-We use the **Food.com dataset** (Kaggle), which contains recipe metadata and user interactions:
+We used the **Food.com dataset** (Kaggle), which contains recipe metadata and user interactions:
 
 - ~83,782 recipes with attributes such as ingredients, preparation time, and steps  
 - ~731,927 user interactions including ratings and reviews  
